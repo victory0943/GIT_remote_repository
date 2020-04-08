@@ -1,0 +1,2 @@
+# GIT_remote_repository
+在远程新建一个git仓库，用于初次完成git管理
